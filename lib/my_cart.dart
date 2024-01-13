@@ -19,7 +19,7 @@ class MyCart extends StatelessWidget {
                 return cartItems.isEmpty
                     ? const Center(
                         child: Text(
-                          "No hay productos en tu carro",
+                          "No hay ejercicios en la lista",
                           style: TextStyle(fontSize: 20),
                         ),
                       )

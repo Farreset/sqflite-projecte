@@ -11,18 +11,18 @@ class ProductsList extends StatelessWidget {
 
 
   var products = [
-    Product(1, "Full Body", "En cada sesión de entrenamiento trabajamos el cuerpo completo, por lo que activaremos una gran cantidad de músculos. Es una muy buena opción para entrenar en casa, tanto si empiezas ahora a entrenar como si ya haces ejercicio de forma habitual.","laptop.png",60),
-    Product(2, "Torso Superior", "Este lapto está en descuento","laptop.png", 40),
-    Product(3, "Torso Inferior", "El laptop más caro","laptop.png", 40),
-    Product(4, "Ejercicos Push", "El laptop más caro","laptop.png", 25),
-    Product(5, "Ejercicos Pull", "El laptop mucho 1000 más caro","laptop.png", 25),
-    Product(6, "Ejercicos Leg", "El laptop mucho 1000 más caro","laptop.png", 25),
-    Product(7, "Espalda", "Questo laptop e molto caro","laptop.png", 15),
-    Product(8, "Pecho", "Questo laptop e molto caro","laptop.png", 15),
-    Product(9, "Biceps", "Questo laptop e molto caro","laptop.png", 15),
-    Product(10, "Triceps", "Questo laptop e molto caro","laptop.png", 15),
-    Product(11, "Cuadriceps", "Questo laptop e molto caro","laptop.png", 15),
-    Product(12, "Gemelos", "Questo laptop e molto caro","laptop.png", 15
+    Product(1, "Full Body", "Trabajamos el cuerpo completo.","laptop.png",60),
+    Product(2, "Torso Superior", "Trabajamos de tronco para arriba.","laptop.png", 40),
+    Product(3, "Torso Inferior", "Trabajamos de tronco para abajo,","laptop.png", 40),
+    Product(4, "Ejercicos Push", "Trabajamos pecho, hombros y triceps","laptop.png", 25),
+    Product(5, "Ejercicos Pull", "Trabajamos brazos y espalda","laptop.png", 25),
+    Product(6, "Ejercicos Leg", "Trabajamos solo pierna","laptop.png", 25),
+    Product(7, "Espalda", "Trabajamos solo espalda","laptop.png", 15),
+    Product(8, "Pecho", "Trabajamos solo pecho","laptop.png", 15),
+    Product(9, "Biceps", "Trabajamos solo biceps","laptop.png", 15),
+    Product(10, "Triceps", "Trabajamos solo triceps","laptop.png", 15),
+    Product(11, "Cuadriceps", "Trabajamos solo cuadriceps","laptop.png", 15),
+    Product(12, "Gemelos", "Trabajamos solo gemelos","laptop.png", 15
     ),
   ];
   @override

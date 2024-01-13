@@ -38,6 +38,7 @@ class ShopDatabase {
     await db.execute('''
     CREATE TABLE imcResults(
     id INTEGER PRIMARY KEY,
+    name TEXT,
     height INTEGER,
     weight INTEGER,
     total FLOAT

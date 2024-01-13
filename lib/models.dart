@@ -8,6 +8,16 @@ class Product {
   Product(this.id, this.name, this.description, this.img ,this.price);
 }
 
+class Imc {
+  final int id;
+  final String name;
+  final int weight;
+  final int height;
+  final int total;
+
+  Imc(this.id, this.name, this.weight, this.height ,this.total);
+}
+
 class CartItem {
   final int id;
   final String name;
